@@ -1,0 +1,30 @@
+C:\Users\David\Desktop\Facultate\An 1 Sem 2\Programare Orientata pe Obiecte\BBG\BBG\bin\Debug\BBG.exe.config
+C:\Users\David\Desktop\Facultate\An 1 Sem 2\Programare Orientata pe Obiecte\BBG\BBG\bin\Debug\BBG.exe
+C:\Users\David\Desktop\Facultate\An 1 Sem 2\Programare Orientata pe Obiecte\BBG\BBG\bin\Debug\BBG.pdb
+C:\Users\David\Desktop\Facultate\An 1 Sem 2\Programare Orientata pe Obiecte\BBG\BBG\obj\Debug\BBG.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Facultate\An 1 Sem 2\Programare Orientata pe Obiecte\BBG\BBG\obj\Debug\BBG.Properties.Resources.resources
+C:\Users\David\Desktop\Facultate\An 1 Sem 2\Programare Orientata pe Obiecte\BBG\BBG\obj\Debug\BBG.csproj.GenerateResource.cache
+C:\Users\David\Desktop\Facultate\An 1 Sem 2\Programare Orientata pe Obiecte\BBG\BBG\obj\Debug\BBG.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Facultate\An 1 Sem 2\Programare Orientata pe Obiecte\BBG\BBG\obj\Debug\BBG.exe
+C:\Users\David\Desktop\Facultate\An 1 Sem 2\Programare Orientata pe Obiecte\BBG\BBG\obj\Debug\BBG.pdb
+C:\Users\David\Desktop\Facultate\An 1 Sem 2\Programare Orientata pe Obiecte\BBG\BBG\obj\Debug\BBG.Form1.resources
+C:\Users\David\Desktop\Facultate\INFO An 1 Sem 2\Programare Orientata pe Obiecte\BBG\BBG\bin\Debug\BBG.exe.config
+C:\Users\David\Desktop\Facultate\INFO An 1 Sem 2\Programare Orientata pe Obiecte\BBG\BBG\bin\Debug\BBG.exe
+C:\Users\David\Desktop\Facultate\INFO An 1 Sem 2\Programare Orientata pe Obiecte\BBG\BBG\bin\Debug\BBG.pdb
+C:\Users\David\Desktop\Facultate\INFO An 1 Sem 2\Programare Orientata pe Obiecte\BBG\BBG\obj\Debug\BBG.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Facultate\INFO An 1 Sem 2\Programare Orientata pe Obiecte\BBG\BBG\obj\Debug\BBG.Form1.resources
+C:\Users\David\Desktop\Facultate\INFO An 1 Sem 2\Programare Orientata pe Obiecte\BBG\BBG\obj\Debug\BBG.Properties.Resources.resources
+C:\Users\David\Desktop\Facultate\INFO An 1 Sem 2\Programare Orientata pe Obiecte\BBG\BBG\obj\Debug\BBG.csproj.GenerateResource.cache
+C:\Users\David\Desktop\Facultate\INFO An 1 Sem 2\Programare Orientata pe Obiecte\BBG\BBG\obj\Debug\BBG.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Facultate\INFO An 1 Sem 2\Programare Orientata pe Obiecte\BBG\BBG\obj\Debug\BBG.exe
+C:\Users\David\Desktop\Facultate\INFO An 1 Sem 2\Programare Orientata pe Obiecte\BBG\BBG\obj\Debug\BBG.pdb
+C:\Users\Chira Cosmin\Desktop\Teme OOP Examen\BBG BIG BALL GAME\BBG\BBG\bin\Debug\BBG.exe.config
+C:\Users\Chira Cosmin\Desktop\Teme OOP Examen\BBG BIG BALL GAME\BBG\BBG\bin\Debug\BBG.exe
+C:\Users\Chira Cosmin\Desktop\Teme OOP Examen\BBG BIG BALL GAME\BBG\BBG\bin\Debug\BBG.pdb
+C:\Users\Chira Cosmin\Desktop\Teme OOP Examen\BBG BIG BALL GAME\BBG\BBG\obj\Debug\BBG.csproj.AssemblyReference.cache
+C:\Users\Chira Cosmin\Desktop\Teme OOP Examen\BBG BIG BALL GAME\BBG\BBG\obj\Debug\BBG.Form1.resources
+C:\Users\Chira Cosmin\Desktop\Teme OOP Examen\BBG BIG BALL GAME\BBG\BBG\obj\Debug\BBG.Properties.Resources.resources
+C:\Users\Chira Cosmin\Desktop\Teme OOP Examen\BBG BIG BALL GAME\BBG\BBG\obj\Debug\BBG.csproj.GenerateResource.cache
+C:\Users\Chira Cosmin\Desktop\Teme OOP Examen\BBG BIG BALL GAME\BBG\BBG\obj\Debug\BBG.csproj.CoreCompileInputs.cache
+C:\Users\Chira Cosmin\Desktop\Teme OOP Examen\BBG BIG BALL GAME\BBG\BBG\obj\Debug\BBG.exe
+C:\Users\Chira Cosmin\Desktop\Teme OOP Examen\BBG BIG BALL GAME\BBG\BBG\obj\Debug\BBG.pdb
